@@ -8,7 +8,7 @@ const {
 // /api/thoughts
 router.route('/').get( getThought).post( createAThought);
 
-// /api/comments/:thoughtId
+// /api/thoughts/:thoughtId
 router.route('/:thoughtId').get(getSingleThought);
 
 module.exports = router;
