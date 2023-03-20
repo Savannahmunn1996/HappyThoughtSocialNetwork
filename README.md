@@ -7,7 +7,7 @@ MongoDB is a popular choice for many social networks due to its speed with large
 ## Usage
 This can be easily used by typing 'node server.js' in terminal
 
-## This API being used in Insomomnia
+## This API being used in Insomnia
 ![C1C13600-1B44-4196-B4D9-B70512A6685B](https://user-images.githubusercontent.com/113401054/226450157-54176a27-31b3-440d-a0aa-8de6133d4cbc.jpeg)
 
 
